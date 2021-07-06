@@ -1,0 +1,65 @@
+napuki - 9tails - CMDS
+------------------------------------
+Open the CMD bar with ;
+
+-------------------------------------
+
+pl - play song on your radio
+
+afk - spams afk message
+
+fs/flyspeed [number] - changes your flyspeed
+
+fly - keybinded to F
+
+fov [number] - changes your number
+
+blink [on/off] - toggle blink
+
+bs/blinkspeed [number] - change blinkspeed
+
+esp [name] - shows targets name
+
+unesp [targeted player] - removes targets name
+
+rj - rejoins the same server
+
+shop - serverhops
+
+noclip - keybinded to X, on by default
+
+reset - keybinded to R 
+
+cl [name] - camlocks onto target
+
+uncl - removes camlock
+
+bypass - tpbypasses you, for hvh. Reset if you instantly fall through the ground
+it's due to tpbypass and the humanoid. 
+
+Aimlock - click Q on the player you'd like to lock on, and it should show the targets username in the orange rectangle.
+
+view [name] - view player
+
+unview - unviews player
+
+aimvelocity - changes your aimvelocity number. 5-6 lowping, 7-10 for highping. 
+
+anti - antiloop, removes your right arm. 
+
+spin - antiaim, works better untpbypassed, but still has an antiaim when tpbypassed.
+
+grav - gives you a gravity gun. Drag a player and undrag them, then you can pick them up with the gravity gun and move them around.
+
+Shotgun Animation - V
+
+Glock Animation - W
+
+grey - gives you a grey skybox
+
+air - enables airwalk
+
+
+
+
+
